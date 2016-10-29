@@ -1,0 +1,13 @@
+Extended Star System Generator
+For Classic Traveller
+
+This program generates a single system at the detail level outlined in Book 6: Scouts.
+
+The following files are required for correct operation:
+    Star.py
+    startypes.py
+    Orbit.py
+    Planet.py
+    Satellite.py
+    system_generator.py
+

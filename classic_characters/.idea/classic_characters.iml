@@ -6,5 +6,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="systems_and_worlds" />
     <orderEntry type="module" module-name="CodeWars" />
+    <orderEntry type="module" module-name="Aslan Language" />
   </component>
 </module>

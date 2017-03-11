@@ -141,9 +141,9 @@ def create():
         star.color = 'D' + star.color[0]
         print(star.color)
     star.orbits = get_stellar_orbits(star.size, star.color)
-    star.max_orbit = get_max_orbits(star.size, star.color)
+    star.max_orbit = get_max_orbits(star.size, star.color)-1
     if star.max_orbit >= len(star.orbits):
-        star.max_orbit = len(star.orbits)
+        star.max_orbit = len(star.orbits)-1
     star.orbits = star.orbits[:star.max_orbit]
     star.min_orbit = get_min_orbit(star.orbits)
     star.hab_orbit = get_hab_orbit(star.orbits)

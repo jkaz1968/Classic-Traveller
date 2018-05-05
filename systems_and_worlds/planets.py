@@ -11,7 +11,7 @@
 # gas  - ' ' or 'G'
 
 import random
-
+import os
 
 def intro():
     print("Sector Generator 1.0")
@@ -35,8 +35,7 @@ def intro():
 def get_sector_info():
     density = []
     for ss in range(0, 16):
-        print("Enter the system density of subsector [" + chr(ss + 65) + "]: ")
-        density.append(int(input()))
+        density.append(get_density(ss))
     return density
 
 
@@ -243,12 +242,13 @@ def format_world_data(name, location, upp, base, notes, gas):
     world_string += (' ' + base)
     world_string += (' ' + notes + (' ' * (50 - len(notes))))
     world_string += (' ' + gas)
+    world_string += '\n'
     return world_string
 
 
-def get_density():
+def get_density(ss):
     density = 0
-    print("Select a system density for the subsector:")
+    print("Select a system density for the subsector {}:".format(chr(ss + 65)))
     print("\t1. Rift")
     print("\t2. Sparse")
     print("\t3. Normal")
@@ -260,8 +260,15 @@ def get_density():
 
 
 def gen_sector(density):
+    dir = os.path.dirname(__file__)
+    path = "Sectors"
+    title = "Sector"
+    filename = os.path.join(dir, path, title)
+    f = open(filename + ".txt", "w")
+
     for ss in range(0, 16):
-        print("\nSubsector [" + chr(ss + 65) + "]")
+        #print("\nSubsector [" + chr(ss + 65) + "]")
+        f.write("\nSubsector [" + chr(ss + 65) + "]\n")
         for c in range(1, 9):
             for r in range(1, 11):
                 if random.randint(1, 6) <= density[ss]:
@@ -276,7 +283,10 @@ def gen_sector(density):
                     notes = gen_notes(upp)
                     gas = gen_gas()
                     upp_formatted = format_world_data(name, location, upp_str, bases, notes, gas)
-                    print(upp_formatted)
+                    # print(upp_formatted)
+                    f.write(upp_formatted)
+    print("Sector written to {}.txt".format(title))
+
     return
 
 

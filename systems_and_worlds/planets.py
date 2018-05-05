@@ -13,6 +13,9 @@
 import random
 import os
 
+densities = ['', 'Rift', 'Sparse', 'Normal', 'Dense', 'Core']
+
+
 def intro():
     print("Sector Generator 1.0")
     print("A script for generating random sectors in Classic Traveller")
@@ -34,8 +37,12 @@ def intro():
 
 def get_sector_info():
     density = []
-    for ss in range(0, 16):
-        density.append(get_density(ss))
+    if input("Randomize the subsector densities? (Y/N)")[0].upper() == 'Y':
+        for ss in range(0, 16):
+            density.append(random.randint(1, 5))
+    else:
+        for ss in range(0, 16):
+            density.append(get_density(ss))
     return density
 
 
@@ -268,7 +275,7 @@ def gen_sector(density):
 
     for ss in range(0, 16):
         #print("\nSubsector [" + chr(ss + 65) + "]")
-        f.write("\nSubsector [" + chr(ss + 65) + "]\n")
+        f.write("\nSubsector [" + chr(ss + 65) + "] - " + densities[density[ss]] + "\n")
         for c in range(1, 9):
             for r in range(1, 11):
                 if random.randint(1, 6) <= density[ss]:

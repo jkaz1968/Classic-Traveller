@@ -1,0 +1,539 @@
+
+Subsector [A] - Normal
+World-0101           0101 CBDF453-9   Non-Industrial.                                    G
+World-0102           0102 C6347AF-A                                                      G
+World-0105           0105 B9BD894-7 A                                                    G
+World-0204           0204 E351964-8 S Industrial.                                        G
+World-0206           0206 BAA7314-C   Non-Industrial.                                    G
+World-0207           0207 C500598-B   Non-Industrial. Vacuum World.                       
+World-0208           0208 C544984-9   Industrial.                                        G
+World-0209           0209 B52779B-9                                                      G
+World-0302           0302 A4436A8-E   Non-Industrial.                                    G
+World-0303           0303 C8CC644-8   Non-Industrial.                                    G
+World-0304           0304 C88657A-9 S Agricultural. Non-Industrial.                      G
+World-0306           0306 B865655-6 N Agricultural. Non-Industrial. Rich.                G
+World-0307           0307 A632420-B S Non-Industrial.                                    G
+World-0308           0308 C8AB559-A S Non-Industrial.                                    G
+World-0309           0309 C635483-7 S Non-Industrial.                                    G
+World-0310           0310 C9CC576-9   Non-Industrial.                                    G
+World-0401           0401 ECCF047-2   Non-Industrial.                                    G
+World-0402           0402 A9DFA52-F N Industrial.                                        G
+World-0403           0403 C8527A8-A                                                      G
+World-0404           0404 C9AA404-A S Non-Industrial. Water World.                       G
+World-0407           0407 BA73310-A N Non-Industrial.                                    G
+World-0409           0409 E99D344-2 S Non-Industrial.                                    G
+World-0503           0503 C88A8CD-A   Water World.                                       G
+World-0504           0504 C75569C-3   Agricultural. Non-Industrial.                      G
+World-0505           0505 D865553-8   Agricultural. Non-Industrial.                      G
+World-0507           0507 B86469A-9   Agricultural. Non-Industrial. Rich.                G
+World-0508           0508 C89867A-7   Agricultural. Non-Industrial.                      G
+World-0509           0509 A224259-D   Non-Industrial.                                    G
+World-0601           0601 EAEF58B-4   Non-Industrial.                                    G
+World-0603           0603 C663ABC-E   Industrial.                                        G
+World-0607           0607 E566546-2   Agricultural. Non-Industrial.                      G
+World-0701           0701 BBDE200-A S Non-Industrial.                                    G
+World-0702           0702 C735353-5 S Non-Industrial.                                    G
+World-0703           0703 EABD688-3   Non-Industrial.                                    G
+World-0704           0704 A977445-A   Non-Industrial.                                     
+World-0707           0707 B854325-B   Non-Industrial.                                    G
+World-0708           0708 C49C202-C S Non-Industrial.                                    G
+World-0803           0803 C777100-6 S Non-Industrial.                                    G
+World-0804           0804 CC97300-8 S Non-Industrial.                                    G
+World-0807           0807 EAA9556-8   Non-Industrial.                                    G
+World-0808           0808 A788679-B A Agricultural. Non-Industrial. Rich.                G
+World-0810           0810 C753458-3   Non-Industrial.                                    G
+
+Subsector [B] - Rift
+World-0104           0104 A7669AB-9 A Industrial.                                        G
+World-0106           0106 E445324-3 S Non-Industrial.                                    G
+World-0108           0108 CBB67AB-8                                                      G
+World-0203           0203 A58A9B9-D S Industrial. Water World.                           G
+World-0305           0305 E342101-8   Non-Industrial.                                    G
+World-0405           0405 D32197B-9 S Non-Agricultural. Industrial.                      G
+World-0409           0409 ACAA7BB-E   Water World.                                        
+World-0501           0501 A447946-B   Industrial.                                         
+World-0508           0508 AC7A485-A   Non-Industrial. Water World.                       G
+World-0601           0601 A94556B-D   Agricultural. Non-Industrial.                      G
+World-0703           0703 CADB200-8 S Non-Industrial.                                     
+World-0704           0704 A550204-B S Non-Industrial. Desert World.                      G
+World-0705           0705 C889333-8 S Non-Industrial.                                     
+World-0709           0709 C7CFA86-D S Industrial.                                        G
+World-0804           0804 B540576-8 S Non-Industrial. Desert World.                      G
+World-0810           0810 E53559C-3   Non-Industrial.                                    G
+
+Subsector [C] - Dense
+World-0101           0101 D973221-7 S Non-Industrial.                                    G
+World-0102           0102 A447725-B   Agricultural.                                       
+World-0103           0103 D431677-4 S Non-Agricultural. Non-Industrial.                  G
+World-0105           0105 C9BB6A9-8 S Non-Industrial.                                    G
+World-0106           0106 CBB7300-C   Non-Industrial.                                    G
+World-0108           0108 C7749AB-5 S Industrial.                                        G
+World-0110           0110 B866565-C S Agricultural. Non-Industrial.                      G
+World-0201           0201 E98A98B-C   Industrial. Water World.                           G
+World-0202           0202 C9DD6AD-9   Non-Industrial.                                    G
+World-0203           0203 CABC888-9 S                                                    G
+World-0204           0204 DCDA555-5 S Non-Industrial. Water World.                       G
+World-0206           0206 A665843-7 N Rich.                                              G
+World-0207           0207 C886448-6 S Non-Industrial.                                    G
+World-0208           0208 B677413-A A Non-Industrial.                                     
+World-0210           0210 DCFF777-5                                                      G
+World-0301           0301 D79A213-5 S Non-Industrial. Water World.                       G
+World-0302           0302 B667466-6   Non-Industrial.                                    G
+World-0303           0303 BACD646-8 N Non-Industrial.                                    G
+World-0305           0305 A8CF464-8   Non-Industrial.                                    G
+World-0306           0306 E6728AA-4 S                                                    G
+World-0307           0307 E200314-6 S Non-Industrial. Vacuum World.                      G
+World-0309           0309 B767667-B N Agricultural. Non-Industrial. Rich.                G
+World-0403           0403 C798635-A S Agricultural. Non-Industrial.                      G
+World-0404           0404 C341304-7   Non-Industrial.                                    G
+World-0405           0405 B855333-8   Non-Industrial.                                    G
+World-0407           0407 C346665-4 S Agricultural. Non-Industrial.                       
+World-0408           0408 C989200-A S Non-Industrial.                                    G
+World-0409           0409 C87B988-6   Industrial.                                        G
+World-0502           0502 B578266-B S Non-Industrial.                                    G
+World-0503           0503 A688736-8   Agricultural.                                      G
+World-0504           0504 A244740-B   Agricultural.                                      G
+World-0506           0506 CAAD521-B S Non-Industrial.                                    G
+World-0507           0507 D520645-4   Non-Agricultural. Non-Industrial. Desert World.    G
+World-0508           0508 C785213-7 S Non-Industrial.                                     
+World-0510           0510 D776201-4 S Non-Industrial.                                    G
+World-0603           0603 C277540-8   Agricultural. Non-Industrial.                      G
+World-0604           0604 A386558-E S Agricultural. Non-Industrial.                      G
+World-0605           0605 D668325-3 S Non-Industrial.                                    G
+World-0607           0607 E873137-6   Non-Industrial.                                    G
+World-0608           0608 C202468-8 S Non-Industrial. Vacuum World.                      G
+World-0609           0609 B964788-A N Agricultural. Rich.                                G
+World-0610           0610 D765300-7 S Non-Industrial.                                    G
+World-0703           0703 BA51474-9   Non-Industrial.                                    G
+World-0704           0704 D78D655-6 S Non-Industrial. Rich.                              G
+World-0707           0707 BACD256-B A Non-Industrial.                                    G
+World-0708           0708 B304788-D   Vacuum World.                                      G
+World-0709           0709 ABA9343-9   Non-Industrial.                                    G
+World-0802           0802 E799963-A S Industrial.                                        G
+World-0804           0804 D464943-8 S Industrial.                                        G
+World-0805           0805 BBBE467-B S Non-Industrial.                                    G
+World-0806           0806 D212531-5   Non-Industrial. Ice Capped.                        G
+World-0807           0807 AB9C846-8                                                      G
+World-0808           0808 A99C122-9   Non-Industrial.                                     
+World-0810           0810 B97A003-C A Non-Industrial. Water World.                       G
+
+Subsector [D] - Dense
+World-0101           0101 BA9A567-8 A Non-Industrial. Water World.                       G
+World-0105           0105 BB98678-6 S Agricultural. Non-Industrial.                      G
+World-0107           0107 EA76769-2   Agricultural.                                      G
+World-0109           0109 XA8D755-5 S Rich.                                              G
+World-0201           0201 E440478-5   Non-Industrial. Desert World.                      G
+World-0202           0202 CB65614-4   Agricultural. Non-Industrial.                      G
+World-0203           0203 AAC9855-B                                                      G
+World-0204           0204 EA87002-5 S Non-Industrial.                                    G
+World-0206           0206 X659458-6 S Non-Industrial.                                    G
+World-0207           0207 B667200-B   Non-Industrial.                                    G
+World-0208           0208 C487652-9   Agricultural. Non-Industrial. Rich.                G
+World-0209           0209 C675231-4   Non-Industrial.                                    G
+World-0302           0302 B456756-7   Agricultural.                                      G
+World-0305           0305 B7B7444-B   Non-Industrial.                                    G
+World-0306           0306 B535202-B N Non-Industrial.                                    G
+World-0403           0403 B335698-A   Non-Industrial.                                     
+World-0405           0405 BB9D224-B S Non-Industrial.                                    G
+World-0406           0406 E345514-7 S Agricultural. Non-Industrial.                      G
+World-0503           0503 D855255-4   Non-Industrial.                                    G
+World-0504           0504 AACB998-B   Industrial.                                         
+World-0508           0508 E689238-3   Non-Industrial.                                    G
+World-0510           0510 E324777-9 S                                                    G
+World-0601           0601 CBEF68B-6   Non-Industrial.                                    G
+World-0605           0605 A879689-D N Non-Industrial.                                    G
+World-0606           0606 B47C558-9   Non-Industrial.                                    G
+World-0608           0608 B400553-A   Non-Industrial. Vacuum World.                      G
+World-0609           0609 C521678-4 S Non-Agricultural. Non-Industrial.                  G
+World-0701           0701 X7336BD-2   Non-Agricultural. Non-Industrial.                  G
+World-0702           0702 D668400-8 S Non-Industrial.                                    G
+World-0703           0703 D8BC235-2 S Non-Industrial.                                    G
+World-0704           0704 B255584-7   Agricultural. Non-Industrial.                       
+World-0706           0706 A330300-F N Non-Industrial. Desert World.                      G
+World-0707           0707 D756400-8 S Non-Industrial.                                    G
+World-0708           0708 C332553-A   Non-Industrial.                                    G
+World-0709           0709 DADD9A8-7   Industrial.                                        G
+World-0710           0710 A772310-E N Non-Industrial.                                    G
+World-0801           0801 BADB212-D A Non-Industrial.                                    G
+World-0802           0802 EAA7767-9 S                                                    G
+World-0803           0803 C7A7250-B   Non-Industrial.                                    G
+World-0804           0804 B663744-A N Rich.                                              G
+World-0805           0805 C548255-9 S Non-Industrial.                                    G
+World-0806           0806 BA8D320-9 S Non-Industrial.                                    G
+World-0808           0808 C78D753-6   Rich.                                              G
+World-0809           0809 B435020-B   Non-Industrial.                                    G
+World-0810           0810 A779769-D N                                                    G
+
+Subsector [E] - Normal
+World-0101           0101 BAA9367-7 A Non-Industrial.                                    G
+World-0103           0103 C545532-4 S Agricultural. Non-Industrial.                      G
+World-0108           0108 C523223-5   Non-Industrial.                                    G
+World-0201           0201 B530335-8 S Non-Industrial. Desert World.                      G
+World-0203           0203 XAAA453-3 S Non-Industrial. Water World.                       G
+World-0204           0204 D200377-5 S Non-Industrial. Vacuum World.                      G
+World-0205           0205 E985879-5 S Rich.                                              G
+World-0206           0206 CBCD202-8 S Non-Industrial.                                    G
+World-0207           0207 B887558-9 S Agricultural. Non-Industrial.                      G
+World-0209           0209 C9AA236-D   Non-Industrial. Water World.                       G
+World-0301           0301 A575736-E   Agricultural.                                      G
+World-0303           0303 B7888B9-5                                                      G
+World-0304           0304 A965635-A   Agricultural. Non-Industrial.                      G
+World-0305           0305 A787241-B N Non-Industrial.                                    G
+World-0306           0306 A320402-C   Non-Industrial. Desert World.                      G
+World-0307           0307 D404332-3 S Non-Industrial. Vacuum World.                      G
+World-0308           0308 A651523-A   Non-Industrial.                                     
+World-0309           0309 D872002-3 S Non-Industrial.                                    G
+World-0402           0402 E95499A-4 S Industrial.                                        G
+World-0405           0405 C678244-A S Non-Industrial.                                    G
+World-0406           0406 D50358B-3 S Non-Industrial. Vacuum World.                      G
+World-0408           0408 D9CB200-6   Non-Industrial.                                     
+World-0410           0410 E656626-2 S Agricultural. Non-Industrial.                      G
+World-0501           0501 C57A400-D   Non-Industrial. Water World.                       G
+World-0504           0504 B665655-B   Agricultural. Non-Industrial. Rich.                G
+World-0506           0506 A59B656-E N Non-Industrial.                                    G
+World-0508           0508 B200456-B   Non-Industrial. Vacuum World.                      G
+World-0510           0510 B246445-8 N Non-Industrial.                                    G
+World-0601           0601 C510564-5   Non-Industrial.                                    G
+World-0602           0602 B998442-8   Non-Industrial.                                    G
+World-0605           0605 CCDF264-6   Non-Industrial.                                     
+World-0606           0606 E773574-2   Non-Industrial.                                    G
+World-0607           0607 C76A646-B   Non-Industrial. Rich. Water World.                 G
+World-0608           0608 B8A9526-B   Non-Industrial.                                    G
+World-0609           0609 A7BB100-B S Non-Industrial.                                    G
+World-0610           0610 CAEE241-A S Non-Industrial.                                    G
+World-0701           0701 CCB7340-4 S Non-Industrial.                                    G
+World-0706           0706 AA7A233-F S Non-Industrial. Water World.                       G
+World-0707           0707 C640356-5   Non-Industrial. Desert World.                      G
+World-0802           0802 C559242-9 S Non-Industrial.                                    G
+World-0809           0809 A567223-D   Non-Industrial.                                    G
+
+Subsector [F] - Sparse
+World-0102           0102 C554447-9 S Non-Industrial.                                    G
+World-0103           0103 DCDE9DD-6 S Industrial.                                        G
+World-0106           0106 A455676-A   Agricultural. Non-Industrial.                      G
+World-0107           0107 X7AB566-6 S Non-Industrial.                                    G
+World-0203           0203 B942485-9 N Non-Industrial.                                    G
+World-0208           0208 CCAC653-4 S Non-Industrial.                                    G
+World-0209           0209 B86B369-9 N Non-Industrial.                                    G
+World-0304           0304 X866331-1 S Non-Industrial.                                    G
+World-0306           0306 C203667-C   Non-Agricultural. Non-Industrial. Vacuum World.    G
+World-0310           0310 B699655-D   Non-Industrial.                                    G
+World-0401           0401 E8A6101-6   Non-Industrial.                                     
+World-0408           0408 X865579-5   Agricultural. Non-Industrial.                      G
+World-0409           0409 C889599-C   Non-Industrial.                                    G
+World-0505           0505 A532203-F   Non-Industrial.                                     
+World-0506           0506 E777248-1   Non-Industrial.                                    G
+World-0510           0510 E9DE132-3 S Non-Industrial.                                    G
+World-0605           0605 B59D6AA-7 N Non-Industrial.                                    G
+World-0608           0608 X455632-0   Agricultural. Non-Industrial.                      G
+World-0609           0609 C6A869A-4   Non-Industrial.                                    G
+World-0701           0701 A57A247-F N Non-Industrial. Water World.                       G
+World-0704           0704 E867887-3   Rich.                                              G
+World-0709           0709 E851A8B-9 S Industrial.                                        G
+World-0710           0710 A344242-8 N Non-Industrial.                                    G
+World-0801           0801 A210521-D   Non-Industrial.                                    G
+World-0804           0804 ECCC311-5   Non-Industrial.                                    G
+
+Subsector [G] - Normal
+World-0101           0101 A99D68B-B N Non-Industrial.                                    G
+World-0102           0102 B687665-9 S Agricultural. Non-Industrial. Rich.                 
+World-0103           0103 A7CC59D-D   Non-Industrial.                                    G
+World-0104           0104 B22299D-F N Non-Agricultural. Industrial.                      G
+World-0105           0105 E9A665A-7 S Non-Industrial.                                    G
+World-0107           0107 C565315-8 S Non-Industrial.                                    G
+World-0201           0201 C9BB987-A S Industrial.                                        G
+World-0202           0202 XB9C323-4 S Non-Industrial.                                    G
+World-0203           0203 AB99400-9 N Non-Industrial.                                    G
+World-0207           0207 A7AC751-C A                                                    G
+World-0209           0209 A9BD765-B S                                                    G
+World-0303           0303 C89A669-C   Non-Industrial. Water World.                       G
+World-0304           0304 B6AB300-7 A Non-Industrial.                                    G
+World-0306           0306 AA8D413-D   Non-Industrial.                                    G
+World-0308           0308 E8A9679-7   Non-Industrial.                                    G
+World-0309           0309 B330255-D   Non-Industrial. Desert World.                      G
+World-0402           0402 D995213-5 S Non-Industrial.                                    G
+World-0504           0504 C673303-6   Non-Industrial.                                    G
+World-0505           0505 A444777-F   Agricultural.                                      G
+World-0507           0507 C7BF658-8 S Non-Industrial.                                    G
+World-0508           0508 C774786-9   Agricultural.                                      G
+World-0509           0509 BA9B830-A S                                                     
+World-0510           0510 E248554-9 S Agricultural. Non-Industrial.                      G
+World-0601           0601 B546765-9 N Agricultural.                                      G
+World-0602           0602 C7779BB-5 S Industrial.                                        G
+World-0604           0604 C597725-A   Agricultural.                                      G
+World-0605           0605 B898335-8 A Non-Industrial.                                    G
+World-0608           0608 B8B9562-A S Non-Industrial.                                    G
+World-0609           0609 A84468B-A S Agricultural. Non-Industrial.                      G
+World-0701           0701 DBEA741-9   Water World.                                       G
+World-0702           0702 C689300-6 S Non-Industrial.                                    G
+World-0703           0703 E4677BA-3 S Agricultural.                                      G
+World-0704           0704 A304559-D S Non-Industrial. Vacuum World.                       
+World-0706           0706 E412ABC-B   Non-Agricultural. Ice Capped.                      G
+World-0707           0707 E862111-3 S Non-Industrial.                                    G
+World-0709           0709 B648200-6 N Non-Industrial.                                    G
+World-0801           0801 C785ADB-7 S Industrial.                                        G
+World-0803           0803 A426475-B N Non-Industrial.                                    G
+World-0804           0804 B779465-C N Non-Industrial.                                    G
+World-0806           0806 C68C575-4 S Non-Industrial.                                    G
+World-0807           0807 A68865A-8 N Agricultural. Non-Industrial. Rich.                G
+World-0809           0809 ACBD6BE-A N Non-Industrial.                                    G
+
+Subsector [H] - Sparse
+World-0110           0110 A586102-E   Non-Industrial.                                    G
+World-0203           0203 E754687-7   Agricultural. Non-Industrial.                      G
+World-0205           0205 B7699AC-B S Industrial.                                        G
+World-0206           0206 E623A96-8   Non-Agricultural. Industrial.                      G
+World-0207           0207 C636400-B   Non-Industrial.                                    G
+World-0301           0301 D7CD267-2   Non-Industrial.                                    G
+World-0304           0304 B200586-C   Non-Industrial. Vacuum World.                      G
+World-0306           0306 A666455-C N Non-Industrial.                                    G
+World-0309           0309 E333865-9 S Non-Agricultural.                                  G
+World-0401           0401 B513357-7 N Non-Industrial. Ice Capped.                        G
+World-0402           0402 C58B5AD-8   Non-Industrial.                                    G
+World-0406           0406 C97637A-5   Non-Industrial.                                    G
+World-0410           0410 E569873-9 S Rich.                                              G
+World-0501           0501 B656002-9   Non-Industrial.                                    G
+World-0503           0503 E431551-B   Non-Industrial.                                    G
+World-0507           0507 A450666-A   Non-Industrial. Desert World.                      G
+World-0510           0510 B48A8A6-B N Water World.                                       G
+World-0601           0601 D835653-5 S Non-Industrial.                                    G
+World-0603           0603 E64788A-7 S                                                    G
+World-0607           0607 B683433-8 N Non-Industrial.                                    G
+World-0610           0610 C425453-C   Non-Industrial.                                    G
+World-0701           0701 B740534-8 N Non-Industrial. Desert World.                      G
+World-0702           0702 E378687-8   Agricultural. Non-Industrial.                      G
+World-0706           0706 B973658-C   Non-Industrial.                                    G
+World-0710           0710 ABCD523-E N Non-Industrial.                                    G
+World-0802           0802 D486300-A   Non-Industrial.                                    G
+World-0809           0809 D83247A-4   Non-Industrial.                                    G
+
+Subsector [I] - Rift
+World-0105           0105 C401895-9   Non-Agricultural. Vacuum World.                     
+World-0203           0203 C8DD423-5   Non-Industrial.                                     
+World-0308           0308 C7A679E-A                                                      G
+World-0401           0401 D87A512-A S Non-Industrial. Water World.                        
+World-0408           0408 CBEF9CD-7   Industrial.                                        G
+World-0505           0505 B9C8637-7 N Non-Industrial.                                    G
+World-0508           0508 C437985-9   Industrial.                                        G
+World-0510           0510 D8CF978-9   Industrial.                                         
+World-0602           0602 CACD400-5 S Non-Industrial.                                    G
+World-0603           0603 CA78365-5   Non-Industrial.                                    G
+World-0605           0605 B634541-A N Non-Industrial.                                    G
+World-0606           0606 CBCB205-8   Non-Industrial.                                    G
+World-0608           0608 D979956-B S Industrial.                                        G
+World-0802           0802 CAAA120-9   Non-Industrial. Water World.                       G
+World-0803           0803 CAA9430-5   Non-Industrial.                                    G
+World-0804           0804 E7CC547-9   Non-Industrial.                                    G
+World-0809           0809 D3139AB-5   Non-Agricultural. Ice Capped.                       
+
+Subsector [J] - Rift
+World-0102           0102 C636847-9 S                                                    G
+World-0103           0103 C620000-A S Non-Industrial. Desert World.                      G
+World-0106           0106 DADD476-4   Non-Industrial.                                    G
+World-0109           0109 EAAA320-4 S Non-Industrial. Water World.                       G
+World-0110           0110 BCFF010-B   Non-Industrial.                                    G
+World-0202           0202 C962267-3 S Non-Industrial.                                    G
+World-0306           0306 E665130-7 S Non-Industrial.                                    G
+World-0403           0403 CBEF643-B S Non-Industrial.                                    G
+World-0406           0406 CCB8244-8 S Non-Industrial.                                    G
+World-0502           0502 AB87888-8 N Rich.                                              G
+World-0506           0506 A99968B-8 N Non-Industrial.                                    G
+World-0508           0508 A655021-9 S Non-Industrial.                                     
+World-0509           0509 EABF101-9   Non-Industrial.                                     
+World-0601           0601 E485867-6   Rich.                                              G
+World-0603           0603 B777516-6 S Agricultural. Non-Industrial.                      G
+World-0702           0702 E776232-8   Non-Industrial.                                    G
+
+Subsector [K] - Core
+World-0101           0101 C3467BB-7   Agricultural.                                      G
+World-0102           0102 B6AC875-9                                                      G
+World-0103           0103 A9AB59B-F   Non-Industrial.                                    G
+World-0104           0104 B886331-B N Non-Industrial.                                    G
+World-0105           0105 DAED120-9 S Non-Industrial.                                    G
+World-0106           0106 C8569BA-6   Industrial.                                        G
+World-0107           0107 B79D327-C S Non-Industrial.                                    G
+World-0110           0110 X766844-1 S Rich.                                              G
+World-0202           0202 CABB000-4   Non-Industrial.                                    G
+World-0203           0203 B866789-B   Agricultural. Rich.                                G
+World-0204           0204 E6348AD-9                                                      G
+World-0205           0205 C6879CF-5   Industrial.                                        G
+World-0206           0206 B9CF154-9 N Non-Industrial.                                    G
+World-0207           0207 D769567-3   Non-Industrial.                                     
+World-0210           0210 C84389B-8 S                                                    G
+World-0302           0302 EB87779-8 S Agricultural. Rich.                                G
+World-0303           0303 BB878BA-A                                                      G
+World-0306           0306 C530242-8   Non-Industrial. Desert World.                      G
+World-0307           0307 C540110-A S Non-Industrial. Desert World.                      G
+World-0308           0308 B899649-A   Non-Industrial.                                    G
+World-0309           0309 B88C589-C   Non-Industrial.                                    G
+World-0401           0401 E755657-1 S Agricultural. Non-Industrial.                      G
+World-0402           0402 A621331-8   Non-Industrial.                                    G
+World-0403           0403 C35536A-8   Non-Industrial.                                    G
+World-0404           0404 ABFF565-D N Non-Industrial.                                    G
+World-0405           0405 D324341-3 S Non-Industrial.                                    G
+World-0406           0406 X988777-7 S Agricultural. Rich.                                G
+World-0407           0407 X678645-5 S Agricultural. Non-Industrial.                      G
+World-0408           0408 D44499C-5 S Industrial.                                        G
+World-0409           0409 C76799D-6 S Industrial.                                        G
+World-0501           0501 E677551-9   Agricultural. Non-Industrial.                      G
+World-0502           0502 C58C313-7   Non-Industrial.                                    G
+World-0503           0503 X51315A-3   Non-Industrial. Ice Capped.                        G
+World-0504           0504 B9C88B9-C                                                      G
+World-0505           0505 XADE25A-0 S Non-Industrial.                                    G
+World-0506           0506 A655410-7 N Non-Industrial.                                     
+World-0508           0508 C640644-9 S Non-Industrial. Desert World.                      G
+World-0509           0509 C520330-9   Non-Industrial. Desert World.                      G
+World-0510           0510 C652163-5   Non-Industrial.                                    G
+World-0601           0601 C42069D-B   Non-Agricultural. Non-Industrial. Desert World.    G
+World-0602           0602 D723663-3 S Non-Agricultural. Non-Industrial.                  G
+World-0603           0603 B466578-A N Agricultural. Non-Industrial.                      G
+World-0604           0604 A834112-A A Non-Industrial.                                    G
+World-0605           0605 A421563-D A Non-Industrial.                                    G
+World-0606           0606 A7A89EF-B A Industrial.                                         
+World-0608           0608 CA9B105-9 S Non-Industrial.                                    G
+World-0609           0609 A97C79B-D                                                      G
+World-0610           0610 BCA89EF-9 N Industrial.                                        G
+World-0701           0701 D8DE772-4                                                      G
+World-0702           0702 B673678-9 N Non-Industrial.                                    G
+World-0704           0704 C844777-9   Agricultural.                                      G
+World-0705           0705 A89A59A-F   Non-Industrial. Water World.                       G
+World-0706           0706 D97A888-6   Water World.                                       G
+World-0707           0707 CBBA142-D S Non-Industrial. Water World.                       G
+World-0708           0708 E8CD669-6 S Non-Industrial.                                    G
+World-0709           0709 A988566-B   Agricultural. Non-Industrial.                      G
+World-0710           0710 C662326-9   Non-Industrial.                                    G
+World-0801           0801 E521696-5 S Non-Agricultural. Non-Industrial.                  G
+World-0802           0802 C572300-5 S Non-Industrial.                                    G
+World-0803           0803 B454434-8 S Non-Industrial.                                    G
+World-0804           0804 BBAE442-9   Non-Industrial.                                    G
+World-0805           0805 C752A86-E   Industrial.                                        G
+World-0806           0806 DCFB201-6 S Non-Industrial.                                    G
+World-0807           0807 D8839BE-9 S Industrial.                                        G
+World-0808           0808 CA9E545-5   Non-Industrial.                                    G
+World-0810           0810 ABAC410-D N Non-Industrial.                                    G
+
+Subsector [L] - Rift
+World-0109           0109 C423479-B S Non-Industrial.                                    G
+World-0201           0201 C733378-B   Non-Industrial.                                    G
+World-0206           0206 C69B778-4                                                      G
+World-0207           0207 C510257-8 S Non-Industrial.                                    G
+World-0306           0306 B400553-F N Non-Industrial. Vacuum World.                      G
+World-0401           0401 C669474-4 S Non-Industrial.                                    G
+World-0403           0403 B999AC7-B A Industrial.                                        G
+World-0406           0406 CAAA300-D S Non-Industrial. Water World.                       G
+World-0502           0502 A9AA585-F   Non-Industrial. Water World.                       G
+World-0602           0602 DBA7599-3 S Non-Industrial.                                    G
+World-0701           0701 E889422-7   Non-Industrial.                                    G
+World-0707           0707 A876244-9   Non-Industrial.                                    G
+World-0710           0710 E8AD664-9   Non-Industrial.                                    G
+
+Subsector [M] - Sparse
+World-0102           0102 C786A67-C S Industrial.                                        G
+World-0108           0108 C7C9367-6   Non-Industrial.                                    G
+World-0110           0110 C58B326-A S Non-Industrial.                                    G
+World-0202           0202 D36AAA8-8   Industrial. Water World.                           G
+World-0205           0205 D79C565-3 S Non-Industrial.                                    G
+World-0209           0209 C34497B-A   Industrial.                                        G
+World-0302           0302 C776001-3   Non-Industrial.                                    G
+World-0305           0305 B6A9420-7 N Non-Industrial.                                    G
+World-0306           0306 X574AAA-2 S Industrial.                                        G
+World-0308           0308 B988200-B   Non-Industrial.                                    G
+World-0310           0310 B79D785-6 N                                                    G
+World-0402           0402 C432789-A   Non-Agricultural.                                   
+World-0407           0407 C8889CC-A   Industrial.                                        G
+World-0408           0408 A501474-9 N Non-Industrial. Vacuum World.                      G
+World-0409           0409 A6BB522-F   Non-Industrial.                                    G
+World-0503           0503 ABB8989-A   Industrial.                                        G
+World-0506           0506 C779320-B   Non-Industrial.                                    G
+World-0509           0509 B576414-7   Non-Industrial.                                    G
+World-0605           0605 D99BACE-9 S Industrial.                                        G
+World-0606           0606 EACB369-9 S Non-Industrial.                                    G
+World-0701           0701 B977773-A S Agricultural.                                      G
+World-0705           0705 C445344-6 S Non-Industrial.                                    G
+World-0706           0706 B556A98-9   Industrial.                                        G
+World-0708           0708 CBEE988-B S Industrial.                                        G
+World-0710           0710 A656444-A N Non-Industrial.                                    G
+World-0805           0805 B633101-A N Non-Industrial.                                    G
+World-0808           0808 C983310-5   Non-Industrial.                                    G
+
+Subsector [N] - Rift
+World-0102           0102 B8688B6-9 S                                                    G
+World-0205           0205 D443224-5 S Non-Industrial.                                    G
+World-0206           0206 C861425-9 S Non-Industrial.                                    G
+World-0208           0208 C9EF447-6 S Non-Industrial.                                    G
+World-0301           0301 A767431-7 S Non-Industrial.                                    G
+World-0309           0309 B8AA642-9 S Non-Industrial. Water World.                       G
+World-0501           0501 C8AB8BE-4                                                      G
+World-0510           0510 E500578-7 S Non-Industrial. Vacuum World.                      G
+World-0709           0709 EAB6312-2   Non-Industrial.                                    G
+World-0805           0805 A445530-9 N Agricultural. Non-Industrial.                      G
+
+Subsector [O] - Normal
+World-0102           0102 C9B9434-6   Non-Industrial.                                    G
+World-0106           0106 B848403-A S Non-Industrial.                                    G
+World-0107           0107 X769653-0 S Non-Industrial. Rich.                              G
+World-0108           0108 CBAC473-9   Non-Industrial.                                    G
+World-0110           0110 C78A445-5   Non-Industrial. Water World.                       G
+World-0203           0203 B6AE567-A N Non-Industrial.                                    G
+World-0204           0204 D624120-7   Non-Industrial.                                    G
+World-0209           0209 B631535-E N Non-Industrial.                                    G
+World-0301           0301 A8A6215-A N Non-Industrial.                                    G
+World-0303           0303 C556422-7 S Non-Industrial.                                    G
+World-0305           0305 A447643-A N Agricultural. Non-Industrial.                      G
+World-0306           0306 E56A664-7   Non-Industrial. Rich. Water World.                 G
+World-0309           0309 A8CA957-D   Industrial. Water World.                           G
+World-0310           0310 D898302-6   Non-Industrial.                                    G
+World-0402           0402 A8BA835-A   Water World.                                        
+World-0403           0403 B9AA014-8 S Non-Industrial. Water World.                       G
+World-0404           0404 B57C100-A S Non-Industrial.                                     
+World-0405           0405 E8A9468-A   Non-Industrial.                                    G
+World-0406           0406 CB86A67-8 S Industrial.                                        G
+World-0407           0407 E78976A-3 S Rich.                                              G
+World-0502           0502 A663100-9 N Non-Industrial.                                    G
+World-0505           0505 A69C557-8 N Non-Industrial.                                    G
+World-0506           0506 A88C489-E   Non-Industrial.                                    G
+World-0508           0508 C3318AC-C   Non-Agricultural.                                  G
+World-0601           0601 C8AB761-7 S                                                    G
+World-0603           0603 C79C6BC-4 S Non-Industrial.                                     
+World-0604           0604 E7A9240-7 S Non-Industrial.                                     
+World-0606           0606 C427756-6                                                      G
+World-0607           0607 C754466-4   Non-Industrial.                                    G
+World-0608           0608 A467102-C N Non-Industrial.                                    G
+World-0609           0609 A6BC222-E   Non-Industrial.                                    G
+World-0610           0610 C7759AA-A S Industrial.                                        G
+World-0703           0703 E8A8886-3                                                      G
+World-0704           0704 C655445-5   Non-Industrial.                                    G
+World-0705           0705 A745445-E S Non-Industrial.                                    G
+World-0706           0706 C521674-A   Non-Agricultural. Non-Industrial.                  G
+World-0709           0709 DBEF556-8 S Non-Industrial.                                    G
+World-0803           0803 BBAA211-8 N Non-Industrial. Water World.                       G
+World-0805           0805 B356104-B A Non-Industrial.                                    G
+World-0807           0807 B53479B-B                                                      G
+World-0809           0809 E478343-6 S Non-Industrial.                                    G
+World-0810           0810 D654550-8   Agricultural. Non-Industrial.                      G
+
+Subsector [P] - Sparse
+World-0102           0102 D669467-5   Non-Industrial.                                    G
+World-0103           0103 E457755-4   Agricultural.                                       
+World-0106           0106 D566489-3   Non-Industrial.                                    G
+World-0107           0107 B504A88-D S Vacuum World.                                      G
+World-0202           0202 X9EF554-2   Non-Industrial.                                     
+World-0301           0301 A799775-A                                                      G
+World-0302           0302 X77A489-6 S Non-Industrial. Water World.                       G
+World-0304           0304 A763797-B N Rich.                                              G
+World-0306           0306 B8B9463-B   Non-Industrial.                                    G
+World-0307           0307 C99C679-8   Non-Industrial.                                    G
+World-0401           0401 AA9C463-C N Non-Industrial.                                    G
+World-0403           0403 C622435-5 S Non-Industrial.                                    G
+World-0406           0406 B543612-A S Non-Industrial.                                    G
+World-0507           0507 E755410-7 S Non-Industrial.                                    G
+World-0510           0510 B98B010-5 S Non-Industrial.                                    G
+World-0601           0601 BA99531-A N Non-Industrial.                                    G
+World-0605           0605 B977332-B S Non-Industrial.                                    G
+World-0606           0606 A545530-A   Agricultural. Non-Industrial.                      G
+World-0610           0610 CA97468-3 S Non-Industrial.                                    G
+World-0706           0706 A787445-D S Non-Industrial.                                     
+World-0709           0709 B968557-6 N Agricultural. Non-Industrial.                      G
+World-0801           0801 C9BC842-6                                                      G
+World-0803           0803 DCBCACE-D   Industrial.                                        G
+World-0807           0807 C8BD454-9   Non-Industrial.                                     

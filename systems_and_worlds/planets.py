@@ -22,7 +22,7 @@ def intro():
     print("- For when all that dice rolling is tedious.")
     print("\nCT defined the interstellar space in terms of sectors each")
     print("divided into 16 subsectors, each of which contained 8 columns")
-    print("of 10 hexes representing 1 parsec (about 1.3 LY) of distance.\n")
+    print("of 10 hexes representing 1 parsec (about 3.2 LY) of distance.\n")
     print(" A | B | C | D ")
     print("---+---+---+---")
     print(" E | F | G | H ")
@@ -36,6 +36,7 @@ def intro():
 
 
 def get_sector_info():
+    name = input("What is the name of the sector? ")
     density = []
     if input("Randomize the subsector densities? (Y/N)")[0].upper() == 'Y':
         for ss in range(0, 16):
@@ -43,7 +44,13 @@ def get_sector_info():
     else:
         for ss in range(0, 16):
             density.append(get_density(ss))
-    return density
+    return density, name
+
+
+def get_sector_density():
+    name = input("What is the name of the sector? ")
+    density = [[], [], [], []]
+    return density, name
 
 
 def gen_upp():
@@ -266,10 +273,10 @@ def get_density(ss):
     return density
 
 
-def gen_sector(density):
+def gen_sector(density, name):
     dir = os.path.dirname(__file__)
     path = "Sectors"
-    title = "Sector"
+    title = name
     filename = os.path.join(dir, path, title)
     f = open(filename + ".txt", "w")
 
@@ -299,8 +306,8 @@ def gen_sector(density):
 
 def main():
     intro()
-    density = get_sector_info()
-    gen_sector(density)
+    density, name = get_sector_info()
+    gen_sector(density, name)
 
 
 main()
